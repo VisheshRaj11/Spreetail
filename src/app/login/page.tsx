@@ -36,7 +36,7 @@ export default function LoginPage() {
       </div>
 
       {/* Right Panel - Form */}
-      <div className="flex-1 flex items-center justify-center p-8 bg-background relative">
+      <div className="flex-1 flex items-center justify-center p-8 relative bg-transparent">
         <div className="w-full max-w-md space-y-8 bg-card/50 backdrop-blur-xl p-10 rounded-3xl border border-border shadow-2xl">
           <div className="text-center">
             <h2 className="text-3xl font-bold text-foreground">Welcome back</h2>
